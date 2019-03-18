@@ -64,4 +64,11 @@
         right: 53%;
     }
 
+    /* Title */
+    #titleP {
+        position: absolute;
+        top: 20%;
+        left: 37%;
+    }
+
 }
